@@ -7,6 +7,7 @@ I am a Computer Science student at Northeastern University (Class of 2028) with 
 ## About Me
 - Experience in full-stack development through projects and student organizations
 - Strong background in mathematics and algorithms, applied to data-driven projects
+- Actively involved in campus organizations such as Disrupt—The FinTech Initiative and Forge: A Sherman Center Program
 - Enjoys basketball, music, physical fitness, and poker
 
 ---
