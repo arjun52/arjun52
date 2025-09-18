@@ -18,7 +18,7 @@ I am a Computer Science student at Northeastern University (Class of 2028) with 
 
 ---
 
-## Projects
+## Projects (Check out these projects under my pinned repositories!)
 - **NBA Shot Chart Analyzer** – Hot/cold-zone algorithm with Gaussian kernel density estimation, 40,000+ grid evaluations, interactive Flask/JS interface, and Streamlit dashboard.  
 - **Spotify Cleaning Tool** – Full-stack Flask app integrating Spotify Web API to replace explicit tracks with clean versions, batch playlist cleaning with 95%+ matching accuracy.  
 - **Interactive Virtual Calendar** – Java-based MVC project with CLI and GUI, supporting multi-calendar sync, time-zone conversion, and conflict resolution.  
