@@ -6,10 +6,9 @@ I'm a Computer Science student at Northeastern University (Class of 2028) with a
 ## About Me
 - Currently interning on the Pet Health engineering team at Chewy
 - Previously built cloud infrastructure and investment analytics tools at Bain Capital (Capital Markets)
-- Selected as 1 of 34 candidates internationally for the Morgan Stanley Equity Derivatives Trading and Structuring Summit
 - Architected HomeBase at Northeastern Forge — a full-stack roommate coordination platform
-- Teaching Assistant for 200+ Calculus students — I enjoy breaking down complex quantitative ideas for different audiences
-- Outside of work: basketball, poker, lifting, and anything involving expected value calculations
+- Teaching Assistant for 200+ Calculus students — I enjoy helping others learn more about math 
+- Outside of work: basketball, poker, lifting, hiking
 
 ---
 
@@ -24,7 +23,7 @@ I'm a Computer Science student at Northeastern University (Class of 2028) with a
 ## Pinned Projects
 
 ### Volatility and Derivatives Analytics Platform
-My most involved project — a full-stack platform for options pricing, risk management, and strategy backtesting. Built a Black-Scholes engine with closed-form Greeks and a Newton-Raphson implied vol solver, a walk-forward backtester (vol-scaled short-put-spread hit +1.69 mean Sharpe across 480 monthly cohorts), delta-normal VaR with stress testing, and a React + Next.js dashboard tying it all together. This one came from wanting to understand derivatives at a deeper level than just reading about them.
+My most involved project - a full-stack platform for options pricing, risk management, and strategy backtesting. Built a Black-Scholes engine with closed-form Greeks and a Newton-Raphson implied vol solver, a walk-forward backtester (vol-scaled short-put-spread hit +1.69 mean Sharpe across 480 monthly cohorts), delta-normal VaR with stress testing, and a React + Next.js dashboard tying it all together. This one came from wanting to understand derivatives at a deeper level than just reading about them.
 
 ### NBA Shot Chart Analyzer
 Started as a side project, turned into a full analytics pipeline. Trained an expected-FG% model on 43,000+ shots using isotonic-calibrated Gradient Boosting (0.009 calibration error), built a distance-weighted Gaussian KDE algorithm for hot/cold zones over a 40,000-point grid, and clustered players into offensive archetypes using K-Means on shot-diet vectors. Served through a Flask/JavaScript app with real-time predictions.
