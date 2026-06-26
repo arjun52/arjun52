@@ -1,44 +1,40 @@
 # Hi, I'm Arjun Sikka
-
-I am a Computer Science student at Northeastern University (Class of 2028) with a minor in Mathematics and a GPA of 3.96. I enjoy tackling problems that combine data, algorithms, and real-world applications, especially in sports analytics, web development, and system design.
+I'm a Computer Science student at Northeastern University (Class of 2028) with a minor in Mathematics. I've always loved building things from scratch and figuring out how stuff works under the hood — that started with LEGOs as a kid and now it's software systems, quantitative models, and anything where math meets real-world problems. Lately I've been deep in the world of derivatives and options pricing, but I'm just as likely to be modeling NBA shot patterns or arguing about poker strategy.
 
 ---
 
 ## About Me
-- Experience in full-stack development through projects and student organizations
-- Strong background in mathematics and algorithms, applied to data-driven projects
-- Actively involved in campus organizations such as Disrupt—The FinTech Initiative and Forge: A Sherman Center Program
-- Enjoys basketball, music, physical fitness, and poker
+- Currently interning on the Pet Health engineering team at Chewy
+- Previously built cloud infrastructure and investment analytics tools at Bain Capital (Capital Markets)
+- Selected as 1 of 34 candidates internationally for the Morgan Stanley Equity Derivatives Trading and Structuring Summit
+- Architected HomeBase at Northeastern Forge — a full-stack roommate coordination platform
+- Teaching Assistant for 200+ Calculus students — I enjoy breaking down complex quantitative ideas for different audiences
+- Outside of work: basketball, poker, lifting, and anything involving expected value calculations
 
 ---
 
 ## Technical Skills
-- **Languages/Frameworks:** Python, Java, Kotlin, SQL, JavaScript, Flask, React, JUnit, WordPress, Swing  
-- **Developer Tools/Libraries:** Git, Docker, LucidChart, Pandas, NumPy, PyCharm, IntelliJ, Matplotlib, Streamlit  
-- **Focus Areas:** Data visualization, machine learning, database systems, full-stack web development  
+- **Languages:** Python, Java, Kotlin, C++, SQL, JavaScript, TypeScript
+- **Frameworks/Tools:** React, Flask, FastAPI, Next.js, Docker, Git, scikit-learn, pandas, NumPy
+- **Infrastructure:** AWS (EC2, DynamoDB, IAM, Lambda, S3), Terraform, Azure DevOps, CI/CD
+- **Focus Areas:** Quantitative finance, derivatives analytics, machine learning, full-stack development
 
 ---
 
-## Projects (Check out these projects under my pinned repositories!)
-- **NBA Shot Chart Analyzer** – Hot/cold-zone algorithm with Gaussian kernel density estimation, 40,000+ grid evaluations, interactive Flask/JS interface, and Streamlit dashboard.  
-- **Spotify Cleaning Tool** – Full-stack Flask app integrating Spotify Web API to replace explicit tracks with clean versions, batch playlist cleaning with 95%+ matching accuracy.  
-- **Interactive Virtual Calendar** – Java-based MVC project with CLI and GUI, supporting multi-calendar sync, time-zone conversion, and conflict resolution.  
+## Pinned Projects
 
----
+### Volatility and Derivatives Analytics Platform
+My most involved project — a full-stack platform for options pricing, risk management, and strategy backtesting. Built a Black-Scholes engine with closed-form Greeks and a Newton-Raphson implied vol solver, a walk-forward backtester (vol-scaled short-put-spread hit +1.69 mean Sharpe across 480 monthly cohorts), delta-normal VaR with stress testing, and a React + Next.js dashboard tying it all together. This one came from wanting to understand derivatives at a deeper level than just reading about them.
 
-## Experience
-- **Tech Team, Northeastern Disrupt: The FinTech Initiative** – Building and maintaining a React-based full-stack platform for a 200+ member community.  
-- **Teaching Assistant, Northeastern University** – Supporting 100+ students in Calculus courses through grading and weekly office hours.  
-- **Captain, ABRHS Computer Science Club** – Organized materials and led a 50+ member team to multiple ACSL first-place finishes.  
+### NBA Shot Chart Analyzer
+Started as a side project, turned into a full analytics pipeline. Trained an expected-FG% model on 43,000+ shots using isotonic-calibrated Gradient Boosting (0.009 calibration error), built a distance-weighted Gaussian KDE algorithm for hot/cold zones over a 40,000-point grid, and clustered players into offensive archetypes using K-Means on shot-diet vectors. Served through a Flask/JavaScript app with real-time predictions.
 
----
-
-## Interests
-Machine learning, data science, mathematics, public speaking, tutoring, basketball, poker, and physical fitness.  
+### Spotify Cleaning Tool
+A full-stack Flask app using the Spotify Web API to replace explicit tracks with clean versions. Batch playlist cleaning with 95%+ matching accuracy. A simpler project but one I use regularly.
 
 ---
 
 ## Connect
-- [LinkedIn](https://www.linkedin.com/in/arjun-sikka-06083a201/)  
-- [GitHub](https://github.com/arjun52)  
-- [Email](mailto:sikka.ar@northeastern.edu)  
+- [LinkedIn](https://www.linkedin.com/in/arjun-sikka-06083a201/)
+- [GitHub](https://github.com/arjun52)
+- [Email](mailto:arjunsikka05@gmail.com)
