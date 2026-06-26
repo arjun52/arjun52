@@ -1,5 +1,5 @@
 # Hi, I'm Arjun Sikka
-I'm a Computer Science student at Northeastern University (Class of 2028) with a minor in Mathematics. I've always loved building things from scratch and figuring out how stuff works under the hood — that started with LEGOs as a kid and now it's software systems, quantitative models, and anything where math meets real-world problems. Lately I've been deep in the world of derivatives and options pricing, but I'm just as likely to be modeling NBA shot patterns or arguing about poker strategy.
+I'm a Computer Science student at Northeastern University (Class of 2028) with a minor in Mathematics. I've always loved building things from scratch and figuring out how stuff works under the hood — that started with LEGOs as a kid and now it's software systems, quantitative models, and anything where math meets real-world problems. Lately I've been deep in the world of derivatives and options pricing, but I'm equally passionate about building scalable software systems and using data to solve hard problems — whether that's designing cloud infrastructure, modeling NBA shot patterns, or arguing about poker strategy.
 
 ---
 
